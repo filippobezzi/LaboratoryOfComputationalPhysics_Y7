@@ -95,6 +95,10 @@ The following instructions need to be followed any time a new local repository i
 
    ~cd .git --> ~ls -a
 
+   * When conflicts appear when merging a branch with the content of the main
+
+   `git update-ref -d MERGE_HEAD`
+
 ### Useful Vim commands:
 
   Exit and save when `git commit -a`
