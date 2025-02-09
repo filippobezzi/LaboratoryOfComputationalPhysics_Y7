@@ -20,7 +20,7 @@ The following instructions need to be followed any time a new local repository i
 
    * Define the central LaboratoryOfComputationalPhysics_Y7 repo as the upstream repository:
 
-   `git remote add upstream https://github.com/PhysicsOfData/LaboratoryOfComputationalPhysics_Y7.git`
+   `vhttps://github.com/PhysicsOfData/LaboratoryOfComputationalPhysics_Y7.git`
 
    * Check that the previous commands succeeded:
 
